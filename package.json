@@ -1,0 +1,27 @@
+{
+  "name": "shorten-with-ligatures",
+  "version": "1.0.0",
+  "description": "Shorten text by cramming characters together with ligatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/shorten-with-ligatures.git"
+  },
+  "keywords": [
+    "ligature",
+    "tweet",
+    "twitter",
+    "shorten",
+    "stupid",
+    "minify"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/shorten-with-ligatures/issues"
+  },
+  "homepage": "https://github.com/TehShrike/shorten-with-ligatures#readme"
+}
