@@ -3,8 +3,8 @@ const shorten = require('./')
 
 const cases = [
 	[ 'fuck off', 'fuck oﬀ' ],
-	[ 'finish flushing', 'ﬁnish ﬂushing' ],
-	[ 'Strangely\navaricious', 'ﬆrangely\nꜸaricious' ],
+	[ 'finish flushing', 'ﬁnish ﬂush㏌g' ],
+	[ 'Strangely\navaricious', 'ﬆrangely\nꜸaricюus' ],
 ]
 
 test('Basic test cases', t => {

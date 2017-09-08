@@ -17,7 +17,7 @@ const shorten = require('./')
 Pass in a string, get back a string that might have some characters replaced with ligatures.
 
 ```js
-shorten(`Paul foolishly fled stateside`) // => 'Pꜷl fꝏlishly ﬂed ﬆateside'
+shorten(`Paul foolishly fled stateside`) // => '㎩ul fꝏlishly ﬂed ﬆateside'
 ```
 
 # License
